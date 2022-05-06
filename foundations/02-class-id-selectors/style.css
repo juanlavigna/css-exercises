@@ -1,0 +1,23 @@
+.verdana{
+    font-family: verdana, "Dejavu sans", sans-serif;
+}
+
+.fondo-rosa {
+    background-color: lightcoral;
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#id1 {
+    color: blue;
+    font-size: 36px;
+
+}
+
+#id2 {
+   background-color: lightgreen;
+   font-size: 24px;
+   font-weight: bold;
+} 
